@@ -1,0 +1,23 @@
+   html
+   body {
+    display: flex;
+    
+   background-image: url("https://cdn.discordapp.com/attachments/1062058179028070420/1066315836572323860/using_synapse_be_like.png");
+   }
+   .scriptbutton {
+    background-color: #3BA0F7;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -20%);
+    top: 50%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+
+   }
+.scriptbutton:hover {
+    transform: translate(-50%, -50%);
+    box-shadow: inset 100px 0 0 0 #F90021;
+    border-radius: 30px;
+    padding: 20px 50px;
+}
